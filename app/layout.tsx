@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Лабораторна №3",
-  description: "Моніторинг давачів температури та вологості (Vercel + Render)",
+  title: "Лабораторна №6",
+  description: "Моніторинг давачів температури та вологості з real-time алертами (SSE)",
 };
 
 export default function RootLayout({
